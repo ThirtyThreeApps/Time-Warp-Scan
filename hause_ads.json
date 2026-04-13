@@ -8,10 +8,22 @@
   ],
   "ads": [
     {
-      "id": "BeautyFilters",
+      "id": "BeautyFilters_Video",
       "videoUrl": "https://d1p9qlga508oy3.cloudfront.net/ads/videos/beautyfiltersad.mp4",
       "asin": "B0GMK4L4M7",
       "closeSecondsRemaining": 1
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner_1",
+      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/time_warp_scan_320x50.png",
+      "asin": "B0GMK4L4M7"
+    },
+    {
+      "id": "banner_2",
+      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/time_warp_scan_728x90.jpg",
+      "asin": "C0HJK5L5N8"
     }
   ]
 }

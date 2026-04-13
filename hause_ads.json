@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "campaignId": "BeautyFilters",
+  "housePriorityImpressions": 10,
+  "refreshSeconds": 1800,
+  "disabledApps": [
+    "com.thirtythreeapps.beautyfacefilters"
+  ],
+  "ads": [
+    {
+      "id": "BeautyFilters",
+      "videoUrl": "https://d1p9qlga508oy3.cloudfront.net/ads/videos/beautyfiltersad.mp4",
+      "asin": "B0GMK4L4M7",
+      "closeSecondsRemaining": 1
+    }
+  ]
+}

@@ -16,14 +16,19 @@
   ],
   "banners": [
     {
-      "id": "banner_1",
-      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/time_warp_scan_320x50.png",
-      "asin": "B0GMK4L4M7"
+      "id": "funny_face_filters",
+      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/funnyfacefilters_banner.webp",
+      "asin": "B0DS1C53CC"
     },
     {
-      "id": "banner_2",
-      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/time_warp_scan_728x90.jpg",
-      "asin": "C0HJK5L5N8"
+      "id": "lie_detector",
+      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/liedetector_banner.webp",
+      "asin": "B0CD2Q9ZZY"
+    },
+    {
+      "id": "time_warp_scan",
+      "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/timewarpscan_banner.webp",
+      "asin": "B0CLKWWW3N"
     }
   ]
 }

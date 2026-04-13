@@ -18,17 +18,17 @@
     {
       "id": "funny_face_filters",
       "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/funnyfacefilters_banner.webp",
-      "asin": "B0DS1C53CC"
+      "asin": "com.thirtythreeapps.facefilters"
     },
     {
       "id": "lie_detector",
       "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/liedetector_banner.webp",
-      "asin": "B0CD2Q9ZZY"
+      "asin": "com.liedetector.truthtest.lyingprank.trueorlie.scan"
     },
     {
       "id": "time_warp_scan",
       "imageUrl": "https://raw.githubusercontent.com/ThirtyThreeApps/Time-Warp-Scan/main/timewarpscan_banner.webp",
-      "asin": "B0CLKWWW3N"
+      "asin": "com.facescan.timewarp.bluelinefilter.timewarpscanner.scan"
     }
   ]
 }
